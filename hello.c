@@ -1,7 +1,6 @@
-include <stdio.h>
+#include "stdio.h"
 
 int main(){
-	printf("hello word!!");
-	printf("thay doi tap tin hello.c")
-return 0;
+	printf("\n\n\nHello word!!\n\n\n");
+	return 0;
 }
